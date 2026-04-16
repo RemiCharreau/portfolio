@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
-  <rect width="48" height="48" rx="10" fill="#0D9488"/>
-  <text x="24" y="32" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">D</text>
+<svg width="1927" height="1842" viewBox="0 0 1927 1842" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 1640.73V200.306C0 45.2714 168.764 -50.8117 302.083 28.3203L1548.74 768.283C1681.11 846.849 1678.82 1039.23 1544.63 1114.63L297.969 1815.1C164.65 1890.01 0 1793.66 0 1640.73Z" fill="#17AAB4"/>
+<path d="M1926.5 1640.73V200.306C1926.5 45.2714 1757.74 -50.8117 1624.42 28.3203L377.756 768.283C245.391 846.849 247.676 1039.23 381.87 1114.63L1628.53 1815.1C1761.85 1890.01 1926.5 1793.66 1926.5 1640.73Z" fill="#17AAB4"/>
 </svg>
